@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=myFirstProgram
+comment0.text=\r\n\ This\ is\ my\ first\ APCS\ program\ \:)\r\n\r\n\ @author\ (Shiv\ Setty)\r\n\ @version\ (8-22-24)\r\n\ myFirstProgram\ (Lab\ 2.8)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

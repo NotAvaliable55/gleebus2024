@@ -1,0 +1,372 @@
+BlueJ run started: Thu Aug 22 11:31:53 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+====
+
+====
+BlueJ run started: Thu Aug 22 11:33:43 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724344424268: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\mpsetty\bluej\import-cache.xml (The system cannot find the file specified)
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:323)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1460)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1064)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:160)
+	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:84)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:273)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:177)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:133)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:105)
+====
+
+====
+BlueJ run started: Fri Aug 23 10:55:03 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724428539804: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: C:\Users\mpsetty\bluej\import-cache.xml (The system cannot find the file specified)
+Communication with debug VM fully established.
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:323)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1460)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1064)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:160)
+	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:84)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:273)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:177)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:133)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:105)
+1724429891223: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Aug 26 10:47:49 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724687288152: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+javax.net.ssl.SSLException: Received fatal alert: bad_record_mac
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:133)
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:117)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:358)
+	at java.base/sun.security.ssl.Alert$AlertConsumer.consume(Alert.java:293)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:204)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1508)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1479)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1064)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:160)
+	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:84)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:273)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:177)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:133)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:105)
+====
+
+====
+BlueJ run started: Mon Aug 26 11:01:41 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724688102230: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:323)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1460)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1064)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:160)
+	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:84)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:273)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:177)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:133)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:105)
+====
+
+====
+BlueJ run started: Tue Aug 27 11:06:02 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724774762817: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+javax.net.ssl.SSLException: Received fatal alert: bad_record_mac
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:133)
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:117)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:358)
+	at java.base/sun.security.ssl.Alert$AlertConsumer.consume(Alert.java:293)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:204)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1508)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1479)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1064)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:160)
+	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:84)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:273)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:177)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:133)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:105)
+====
+
+====
+BlueJ run started: Tue Aug 27 11:27:08 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724776028624: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:323)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1460)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1064)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:160)
+	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:84)
+	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:273)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:177)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:133)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:105)
+An unexpected exception occurred:
+java.lang.IllegalArgumentException: line/column numbers must be > 0
+	at bluej.parser.SourceLocation.<init>(SourceLocation.java:39)
+	at bluej.editor.flow.FlowErrorManager$ErrorDetails.<init>(FlowErrorManager.java:231)
+	at bluej.editor.flow.FlowErrorManager.showErrors(FlowErrorManager.java:110)
+	at bluej.editor.flow.FlowErrorManager.lambda$addErrorHighlight$0(FlowErrorManager.java:104)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 3163: java.util.IllegalFormatPrecisionException:
+null
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2900: java.util.IllegalFormatPrecisionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2747: java.util.IllegalFormatPrecisionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2671: java.util.IllegalFormatPrecisionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1209: java.util.IllegalFormatPrecisionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1105: java.util.IllegalFormatPrecisionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 4442: java.util.IllegalFormatConversionException:
+null
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2976: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2924: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2689: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1209: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1105: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 4442: java.util.IllegalFormatConversionException:
+null
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2976: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2924: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2689: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1209: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1105: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 4442: java.util.IllegalFormatConversionException:
+null
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2976: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2924: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\Formatter.java, line 2689: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1209: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\PrintStream.java, line 1105: java.util.IllegalFormatConversionException:
+null (in java.util.Formatter$FormatSpecifier)
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\DecimalFormat.java, line 3591: java.lang.IllegalArgumentException:
+Malformed pattern "0###"
+Error or exception for source not in project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject\DecimalFormat.java, line 438: java.lang.IllegalArgumentException:
+Malformed pattern "0###" (in java.text.DecimalFormat)
+====
+
+====
+BlueJ run started: Wed Aug 28 11:22:09 CDT 2024
+BlueJ version 5.3.0
+Build ID: ad88d32c
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\mpsetty\Documents\GitHub\myfirstrepo-forlearning-NotAvaliable55\MyFirstProject
+1724862130036: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
